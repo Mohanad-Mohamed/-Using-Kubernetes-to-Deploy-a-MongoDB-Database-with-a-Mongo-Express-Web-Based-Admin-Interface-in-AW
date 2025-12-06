@@ -1,7 +1,7 @@
 
 # Project Architecture 
 
-![Architecture](https://github.com/user-attachments/assets/442c2e1d-e900-4dcb-920a-407ebe1d2959)
+![Architecture](https://github.com/user-attachments/assets/3af658c0-3ff2-4fdf-8e7b-66cace36a0cf)
 
 # MongoDB and Mongo Express Kubernetes Deployment
 
