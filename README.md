@@ -1,3 +1,8 @@
+
+# Project Architecture 
+
+![Architecture](https://github.com/user-attachments/assets/442c2e1d-e900-4dcb-920a-407ebe1d2959)
+
 # MongoDB and Mongo Express Kubernetes Deployment
 
 This repository contains Kubernetes configuration files for deploying MongoDB and Mongo Express.
